@@ -1,2 +1,2 @@
 the index of machine learning algorithm：
-1
+1 linear regularization 
